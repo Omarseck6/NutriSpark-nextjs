@@ -2,6 +2,10 @@
 
 **NutriSpark** is a Next.js web application designed to help users track and manage their nutritional goals. The platform offers tools for meal planning, calorie tracking, and personalized dietary recommendations.
 
+![Aperçu du formulaire de contact](./shoot1.png)
+
+![Aperçu du formulaire de contact](./shoot2.png)
+
 ## 🚀 Features
 - **User-friendly interface**: Intuitive design for seamless navigation.
 - **Calorie tracking**: Monitor daily calorie intake and expenditure.
